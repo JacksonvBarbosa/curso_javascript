@@ -1,0 +1,13 @@
+const num1 = 6;
+const num2 = 28;
+
+//Comparando números
+console.log(num1 === num2); //Verifica se é igual;
+console.log(num1 !== num2); //Verifica se é diferente;
+
+//Comparando strings
+texto1 = "jac";
+texto2 = "Jac";
+
+console.log(texto1 === texto2);
+console.log(texto1 !== texto2);
